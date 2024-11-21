@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there :wave:
 
-<!--
-**LarsBuis/larsbuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-Here are some ideas to get you started:
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+Hi there 👋. I’m Lars Buis
+
+## Get in touch :coffee:
+
+- [Website](https://larsbuis.dev)
+- [LinkedIn](https://www.linkedin.com/in/larsbuis)
