@@ -7,7 +7,7 @@
 
 - 📫 Contact me **buislars05@gmail.com**
 
-<h2 align="center">🔧 Technologies & Tools</h2>
+<h2 align="center">🔧 Technologies</h2>
 
 ###
 <h4 align="center">Languages & Frameworks</h4>
