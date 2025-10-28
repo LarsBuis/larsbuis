@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lars Buis</h1>
-<h3 align="center">A student at Zuyd Hogeschool and Software Developer</h3>
+<h3 align="center">An aspiring Software developer at Zuyd Hogeschool</h3>
 
 <!---
 - 🌱 I’m currently learning **.NET Maui**
