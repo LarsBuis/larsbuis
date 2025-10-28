@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lars Buis</h1>
 <h3 align="center">A student at Zuyd Hogeschool and Software Developer</h3>
 
+<!---
 - 🌱 I’m currently learning **.NET Maui**
 
 - 👨‍💻 All of my projects are available at [https://www.larsbuis.dev/](https://www.larsbuis.dev/)
@@ -45,3 +46,4 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+--->
